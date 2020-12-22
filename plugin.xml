@@ -6,7 +6,7 @@
     <name>Apple Pay</name>
     <description>Implements Apple Pay.</description>
     <keywords>cordova,payment,apple pay</keywords>
-    <repo>https://github.com/samkelleher/cordova-plugin-applepay</repo>
+    <repo>https://github.com/harikrir/cordova-plugin-applepay</repo>
 
     <platform name="ios">
 
