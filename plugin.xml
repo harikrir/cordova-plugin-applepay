@@ -58,12 +58,12 @@
         <!-- Adding Associated Domains -->
         <config-file target="*-Debug.plist" parent="com.apple.developer.associated-domains">
             <array>
-                <string>webcredentials:digital.enterprisetouch.com</string>
+                <string>merchant.com.entrepriseTouch.ApplePay</string>
             </array>
         </config-file>
         <config-file target="*-Release.plist" parent="com.apple.developer.associated-domains">
             <array>
-                <string>webcredentials:digital.enterprisetouch.com</string>
+                <string>merchant.com.entrepriseTouch.ApplePay</string>
             </array>
         </config-file>
         <!-- Adding autofill-credential-provider -->
